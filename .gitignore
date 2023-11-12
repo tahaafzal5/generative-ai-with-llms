@@ -1,0 +1,48 @@
+# Mac
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environments
+__pycache__/
+venv/
+env/
+*.pyc
+*.pyo
+*.pyd
+
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+*.ipynb-meta/
+
+# VS Code configuration
+.vscode/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Sublime Text project settings
+.sublime-project
+.sublime-workspace
+
+# PyCharm project settings
+.idea/
+
+# Jupyter Lab settings
+.jupyter/
+
+# Customary for data science and machine learning projects
+data/
+output/
